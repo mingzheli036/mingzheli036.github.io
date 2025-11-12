@@ -3,7 +3,7 @@
 
 ## 🧑 LLM
 
-- ``AAAI 2026`` [Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models](https://arxiv.org/pdf/2505.16517), Zirui Song, Guangxian Ouyang, **Mingzhe Li**, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chenn.
+- ``AAAI 2026`` [Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models](https://arxiv.org/pdf/2505.16517), Zirui Song, Guangxian Ouyang, **Mingzhe Li**, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chen.
 
 - ``EMNLP 2025`` [Injecting domain-specific knowledge into large language models: a comprehensive survey](https://arxiv.org/pdf/2502.10708?), Zirui Song, Bin Yan, Yuhan Liu, Miao Fang, **Mingzhe Li**, Rui Yan, Xiuying Chen.
 
