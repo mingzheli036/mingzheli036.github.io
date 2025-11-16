@@ -23,7 +23,7 @@
 
 ## 🤖 AI-Generated Text for Social Media Dynamics
 
-- ``TASLP 2024``[Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization](https://ieeexplore.ieee.org/document/10414164), Xiuying Chen, Shen Gao, **Mingzhe Li**, Qingqing Zhu, Xin Gao, Xiangliang Zhang.
+- ``TASLP 2024`` [Write Summary Step-by-Step: A Pilot Study of Stepwise Summarization](https://ieeexplore.ieee.org/document/10414164), Xiuying Chen, Shen Gao, **Mingzhe Li**, Qingqing Zhu, Xin Gao, Xiangliang Zhang.
 
 - ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), **Mingzhe Li**, Xiuying Chen, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
 
@@ -41,7 +41,7 @@
 
 ## 📚 AI-Generated Text for Accuracy
 
-- ``SIGIR 2024``[Flexible and Adaptable Summarization via Expertise Separation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657789), Xiuying Chen, **Mingzhe Li**, Shen Gao, Xin Cheng, Qingqing Zhu, Rui Yan, Xin Gao, Xiangliang Zhang.
+- ``SIGIR 2024`` [Flexible and Adaptable Summarization via Expertise Separation](https://dl.acm.org/doi/pdf/10.1145/3626772.3657789), Xiuying Chen, **Mingzhe Li**, Shen Gao, Xin Cheng, Qingqing Zhu, Rui Yan, Xin Gao, Xiangliang Zhang.
 
 - ``SIGIR 2023`` [A Topic-aware Summarization Framework with Different Modal Side Information](https://arxiv.org/pdf/2305.11503.pdf), Xiuying Chen\*, **Mingzhe Li\***, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang.
 
